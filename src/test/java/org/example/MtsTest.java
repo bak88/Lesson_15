@@ -73,6 +73,7 @@ public class MtsTest extends WebDriverTest {
 
         WebElement button = driver.findElement(By.xpath("//button[text()='Продолжить']"));
         button.click();
+
     }
 
 }
